@@ -1,0 +1,1 @@
+#"Este projeto é um exercício prático para aprender a usar Git e GitHub."
